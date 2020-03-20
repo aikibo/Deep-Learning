@@ -97,7 +97,7 @@ Quando si lavora con le reti neurali, in genere, si parla di forward e back prop
   6. Leaky ReLU;
   7. Softmax function.
 
-  Le più popolari sono: 3. Sigmoid function, 4. Hyperbolic Tangent Function, 5. Rectified Linear Unit (ReLU) e la 7. Softmax function. Il loro andamento è visibile al seguente [link](https://en.wikipedia.org/wiki/Activation_function).
+  Le più popolari sono: iii. Sigmoid function, iv. Hyperbolic Tangent Function, v. Rectified Linear Unit (ReLU) e la vii. Softmax function. Il loro andamento è visibile al seguente [link](https://en.wikipedia.org/wiki/Activation_function).
 
 Come suddetto, la loro combinazione ci permette di ottenere un' algoritmo di training completo, definito come segue:
 
