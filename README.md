@@ -36,7 +36,7 @@ Come si può osservare [dall'immagine](https://it.wikipedia.org/wiki/Rete_neural
 
 Dalla combinazione dei 3 strati, si possono ricavare archittetture differenti di reti neurali, in base alle necessità di studio (vedi immagine sotto, ricavata dal seguente [link](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)). 
 
-![1*cuTSPlTq0a_327iTPJyD-Q](/Users/aless/Desktop/1*cuTSPlTq0a_327iTPJyD-Q.png)
+![1*cuTSPlTq0a_327iTPJyD-Q](./Image/1*cuTSPlTq0a_327iTPJyD-Q.png)
 
 In soldoni, le reti neurali sono strutture non-lineari di dati statistici organizzate come strumenti di modellazione. Esse possono essere utilizzate per simulare relazioni complesse tra ingressi ed uscite, che altre funzioni analitiche non riescono a rappresentare (source: [Wikipedia](https://it.wikipedia.org/wiki/Rete_neurale_artificiale)).
 
@@ -48,7 +48,7 @@ Quando si lavora con le reti neurali, in genere, si parla di forward e back prop
 
   
 
-  <img src="/Users/aless/Desktop/Forward.png" alt="Forward" style="zoom:50%;" />
+  <img src="./Image/Forward.png" alt="Forward" style="zoom:50%;" />
 
   
 
@@ -69,9 +69,9 @@ Quando si lavora con le reti neurali, in genere, si parla di forward e back prop
 
   A quel punto, si procede a calcolare il valore di a2, come segue, vedi figura.
 
-  ![Screenshot 2020-03-20 at 12.58.07](/Users/aless/Desktop/Screenshot 2020-03-20 at 12.58.07.png)
+  
 
-
+![Forward1](./Image/Forward1.png)
 
 - **backpropagation** (retropropagazione) è un algoritmo per l'allenamento di reti neurali artificiali supervisionate, attraverso cui si cerca di minimizzare il gradiente di perdita della funzione (andando ad aggiustare in modo iterativo i pesi w e i bias b tra le varie connessioni di un rete), [al fine di minimizzare la differenza tra il risultato ottenuto e quello desiderato](https://www.nature.com/articles/323533a0). 
 
@@ -79,7 +79,7 @@ Quando si lavora con le reti neurali, in genere, si parla di forward e back prop
 
   
 
-  ![Screenshot 2020-03-20 at 16.08.30](/Users/aless/Desktop/Screenshot 2020-03-20 at 16.08.30.png)
+  ![Back](./Image/Back.png)
 
   
 
@@ -101,7 +101,7 @@ Quando si lavora con le reti neurali, in genere, si parla di forward e back prop
 
 Come suddetto, la loro combinazione ci permette di ottenere un' algoritmo di training completo, definito come segue:
 
-<img src="/Users/aless/Desktop/Screenshot 2020-03-20 at 17.23.13.png" alt="Screenshot 2020-03-20 at 17.23.13" style="zoom:50%;" />
+<img src="./Image/Iteration.png" alt="Iteration" style="zoom:50%;" />
 
 ### **Librerie del Deep Learning**
 
