@@ -108,6 +108,6 @@ Come suddetto, la loro combinazione ci permette di ottenere un' algoritmo di tra
 Le librerie più popolari del Deep Learning sono:
 
 - **Keras:** grazie alla sintassi molto semplice, è perfetta per chi vuole avvicinarsi al campo del Deep Learning o per chi vuole creare dei modelli molto semplici e rapidi da analizzare, in quando API di alto livello. Però, per utilizzarla, bisogna installare TensorFlow come backend.
-- **TensorFlow:** rispetto a Keras, TensorFlow è una libreria di basso, che permette di avere più controllo (ed una maggiore comprensione) dei nodi o dei layers della rete. 
+- **TensorFlow:** rispetto a Keras, TensorFlow è una libreria di basso livello, che permette di avere più controllo (ed una maggiore comprensione) dei nodi o dei layers della rete. 
 - **PyTorch:** è equivalente a TensorFlow, ma gli algoritmi girano sulla GPU ([unità di elaborazione grafica](https://it.wikipedia.org/wiki/Graphics_processing_unit)). E' molto diffuso in campo accademico (ricerca) e viene utilizzato per ottimizzare le espressioni dei custom. Sia TensorFlow che PyTorch non sono semplici da utilizzare come Keras.
 
